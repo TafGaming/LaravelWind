@@ -1,8 +1,4 @@
-<x-slot name="header">
-    <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-        Manage Posts (Laravel 11 Livewire CRUD with Jetstream & Tailwind CSS - ItSolutionStuff.com)
-    </h2>
-</x-slot>
+
 
 <div class="py-12">
 
